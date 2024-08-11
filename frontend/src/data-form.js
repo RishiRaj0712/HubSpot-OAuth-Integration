@@ -34,6 +34,7 @@ export const DataForm = ({ integrationType, credentials }) => {
         }
     }
 
+    
     return (
         <Box display='flex' justifyContent='center' alignItems='center' flexDirection='column' width='100%'>
             <Box display='flex' flexDirection='column' width='100%'>
